@@ -56,7 +56,7 @@ if (ua.includes("Locket")) {
             feature_set: [
                 {
                     title: "Bảo Thy✨",
-                    body: "Không được lật kèo nha Thy ơi💛",
+                    body: "Không được lật kèo nha Thy ơi hâhhaa💛",
                     imageURL: "https://cdn.upanhlaylink.com/i/GSfYXmKd.png"
                 }
             ],
